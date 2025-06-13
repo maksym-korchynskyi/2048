@@ -4,7 +4,7 @@ This project shows a website based on the game 2048. The website includes a play
 
 ## Live Demo
 
-Experience the live website: [2048 Game](https://maksym2493.github.io/2048/)
+Experience the live website: [2048 Game](https://maksym-korchynskyi.github.io/2048/)
 
 ## Technologies Used
 
